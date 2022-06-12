@@ -39,7 +39,7 @@ int main() {
         } while(isok);
 
         //menampilkan data
-        cout << "IPK " << mhs[x] << " = " << ipk[x] <<endl;
+        Printf << "IPK " << mhs[x] << " = " << ipk[x] <<endl;
 
         //reset variable
         hitung = 0;
